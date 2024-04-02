@@ -3,4 +3,4 @@ I hvae a Bachelor's Degree in Computer Science from Missouri State University. <
 I currently learn Computer Science with [Recurion](https://recursionist.io/).
 
 ## Skills and Experience
-Python/JavaScript/HTML/CSS/Bootstrap/Git
+Python/JavaScript/HTML/CSS/Bootstrap/Git/SQL
